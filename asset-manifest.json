@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/toolkit-redux/static/css/main.afd7172b.chunk.css",
+    "main.js": "/toolkit-redux/static/js/main.cf9fbe4d.chunk.js",
+    "main.js.map": "/toolkit-redux/static/js/main.cf9fbe4d.chunk.js.map",
+    "runtime-main.js": "/toolkit-redux/static/js/runtime-main.24b1e0f0.js",
+    "runtime-main.js.map": "/toolkit-redux/static/js/runtime-main.24b1e0f0.js.map",
+    "static/css/2.197aafe9.chunk.css": "/toolkit-redux/static/css/2.197aafe9.chunk.css",
+    "static/js/2.bbe95c00.chunk.js": "/toolkit-redux/static/js/2.bbe95c00.chunk.js",
+    "static/js/2.bbe95c00.chunk.js.map": "/toolkit-redux/static/js/2.bbe95c00.chunk.js.map",
+    "static/js/3.30a7915c.chunk.js": "/toolkit-redux/static/js/3.30a7915c.chunk.js",
+    "static/js/3.30a7915c.chunk.js.map": "/toolkit-redux/static/js/3.30a7915c.chunk.js.map",
+    "index.html": "/toolkit-redux/index.html",
+    "static/css/2.197aafe9.chunk.css.map": "/toolkit-redux/static/css/2.197aafe9.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/toolkit-redux/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.bbe95c00.chunk.js.LICENSE.txt": "/toolkit-redux/static/js/2.bbe95c00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24b1e0f0.js",
+    "static/css/2.197aafe9.chunk.css",
+    "static/js/2.bbe95c00.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.cf9fbe4d.chunk.js"
+  ]
+}
